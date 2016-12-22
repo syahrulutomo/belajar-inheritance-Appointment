@@ -33,6 +33,9 @@ public class main {
         Monthly ap3 = new Monthly(new Date(2016,1,21),"play football");
         a.add(ap3);
         
+        Onetime ap4 = new Onetime(new Date(2016,12,21),"Visit grandpa's home");
+        a.add(ap4);
+        
         System.out.println("\n ** Appointments **");
         
         
